@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    min-height: 100vh;
+    min-width: 100vh;
+}
+#canvas {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    inset: 0;
+}
